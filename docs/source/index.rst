@@ -1,6 +1,8 @@
 Welcome to the documentation with regards to running rsync and ssh on Windows machines
 ===================================
 
+.. _landing:
+
 These instructions should allow you to use the ssh and rsync commands on your Windows machine, as if it were a Mac OSX or Linux machine.
 Additionally, instructions are specified specifically for working with Windows machines from the UMCG, and the Gearshift HPC RUG cluster.
 
