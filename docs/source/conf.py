@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ssh and rsync for Windows'
+copyright = '2022, Roy Oelen'
+author = 'Roy Oelen'
 
 release = '0.1'
 version = '0.1.0'
