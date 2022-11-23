@@ -1,13 +1,14 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the documentation with regards to running rsync and ssh on Windows machines
+======================================================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. _landing:
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+These instructions should allow you to use the ssh and rsync commands on your Windows machine, as if it were a Mac OSX or Linux machine.
+Additionally, instructions are specified specifically for working with Windows machines from the UMCG, and the Gearshift HPC RUG cluster.
+
+Start with :doc:`ssh_and_rsync` section for setting up rsync and ssh
+
+Then continue in :doc:`connecting_to_gearshift` for setting up the required files to connect to Gearshift
 
 .. note::
 
@@ -18,5 +19,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   ssh_and_rsync
+   connecting_to_gearshift
