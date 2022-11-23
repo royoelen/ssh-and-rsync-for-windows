@@ -1,5 +1,5 @@
 SSH and rsync setup
-===
+===================
 
 install git for windows
 https://github.com/git-for-windows/git/releases/tag/v2.37.2.windows.2
