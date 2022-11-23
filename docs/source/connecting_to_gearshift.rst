@@ -32,10 +32,14 @@ if you created a new SSH key, be sure to send the helpdesk the public key, so yo
 after the key has been added, or if the key was already added before, you can access the cluster just like a Mac or Linux user would
 
 .. code-block:: console
+  
   ssh airlock+gearshift
+  
+  
 and rsync just like a Mac or Linux user would
 
 .. code-block:: console
+  
   rsync -a airlock+gearshift:/where/the/the/files/are/ /where/you/want/them/locally/
 
 
