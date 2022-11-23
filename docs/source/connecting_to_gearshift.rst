@@ -7,13 +7,13 @@ After setting up rsync and ssh, you can set up everything to connect to the clus
 
 I assume you have an ssh key called id_rsa (default) in your .ssh folder already, if not, create one using the git bash window
 
-```ssh
+```sh
    ssh-keygen -t rsa -f ~/.ssh/id_rsa -C your_username -b 2048
 ```
 
 make sure you have an ssh key, and add that to the ssh agent, in a git bash window.
 
-```ssh
+```sh
    eval $(ssh-agent -s)
    ssh-add ~/.ssh/id_rsa
 ```
