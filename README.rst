@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Read the Docs repo for ssh and rsync for windows
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repo is used to generate the tutorial for getting ssh and rsync to work on Windows in conjunction with the UMCG genetics HPC cluster
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://readthedocs.org/projects/ssh-and-rsync-for-windows/
